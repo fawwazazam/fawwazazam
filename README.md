@@ -26,11 +26,9 @@
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fawwazazam&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com?user=fawwazazam&theme=tokyonight&hide_border=true&v=2" height="150" />
 </div>
-
 ---
 
 ## 🚀 What I'm Focusing On
